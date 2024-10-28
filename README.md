@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Cancer Machine Learning App
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This app lets you predict cancer from a primary stage 
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://NY-NyumbaniTechAI.streamlit.app/)
 
 ## GitHub Codespaces
 
